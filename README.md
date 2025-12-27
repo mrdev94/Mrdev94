@@ -85,29 +85,55 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 
 ---
-
 ## 🔥 GitHub Streak
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mrdev94&theme=tokyonight&hide_border=true" width="65%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=mrdev94&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+    width="65%"
+  />
 </div>
+
 
 ---
-
 ## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrdev94&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdev94&layout=compact&theme=tokyonight" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mrdev94&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdev94&layout=compact&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </div>
+
 
 ---
 
 ## 📈 Profile Summary Cards
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
-<img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
-<img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
-<img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" />
+  <img 
+    src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+    width="95%" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" 
+    width="32%" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" 
+    width="32%" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/tokyonight/3-stats.svg" 
+    width="32%" 
+  />
 </div>
+
 
 ---
 
