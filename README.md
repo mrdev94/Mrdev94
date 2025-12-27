@@ -1,42 +1,60 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
-
-<h1>محمد رمضان</h1>
+<h1>محمد رمضان | Mohamed Ramadan</h1>
 <h3>Full Stack Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedRamadan&style=flat&color=orange&label=PROFILE+VIEWS)
+<p>
+Building scalable web applications with clean architecture and solid fundamentals.
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedRamadan&style=flat&color=blue)
 
 </div>
 
 ---
 
-## 🚀 Tools & Technologies
+## 👨‍💻 About Me
+- Full Stack Developer with strong focus on **backend systems**
+- Experienced in building **REST APIs**, dashboards, and full web platforms
+- Passionate about **clean code, system design, and performance**
+- Comfortable working with **Linux-based environments**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+---
+
+## 🧠 Tech Stack
+
+### Languages
+- JavaScript / TypeScript  
+- PHP  
+
+### Frontend
+- HTML5, CSS3  
+- React, Next.js  
+
+### Backend
+- Node.js  
+- Laravel  
+
+### Databases
+- MySQL  
+- PostgreSQL  
+
+### Tools & Environment
+- Git & GitHub  
+- Docker  
+- Linux  
+- VS Code  
 
 ```ts
-// About Me - Tech Stack
+// Technical Overview
 
-class MohamedRamadan extends FullStackDeveloper {
+class MohamedRamadan {
+  role = "Full Stack Developer";
+
   stack = {
-    languages: ["JavaScript", "TypeScript", "PHP"],
     frontend: ["React", "Next.js", "HTML", "CSS"],
     backend: ["Node.js", "Laravel"],
     databases: ["MySQL", "PostgreSQL"],
-    tools: ["Git", "Docker", "Linux"],
-    architecture: ["MVC", "REST API", "System Design"]
+    tools: ["Git", "Docker", "Linux"]
   };
 }
